@@ -1,0 +1,27 @@
+
+.formGroupAddPost{
+    display: flex;
+    gap: 15px;
+}
+
+.formContainer{
+    padding: 20px 0 20px 0;
+}
+
+
+/*CELULAR*/
+@media screen and (max-width:767px){
+    .formContainer{
+        padding: 25px 20px 25px 20px;
+        font-size: 0.8rem;
+    }
+    
+}
+
+/*TABLET*/
+@media screen and (min-width:768px) and (max-width:1023px ) {
+    .filterText{
+    
+        margin: 30px 0 30px 0;
+    }
+}
