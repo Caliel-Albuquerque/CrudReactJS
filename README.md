@@ -6,7 +6,7 @@ O projeto consiste no consumo de uma API, no qual há uma listagem das postagens
 
 Basta rodar nessa ordem:
 
-* `yarn install`
+* `yarn`
 * `yarn start`
 
 
